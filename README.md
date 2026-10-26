@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GFZ Potsdam is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.gfz-potsdam.de
+GFZ Helmholtz Centre for Geosciences (GFZ) in Potsdam, Germany, is a leading research institution providing scientific services and data on Earth system science. It offers geophysical data, models, and tools for researchers, policymakers, and industry, supporting studies in seismology, geodesy, climate, and natural hazards. The centre collaborates internationally and publishes extensive datasets and APIs for accessing geoscientific information.
+
+**Areas:** Company · Geosciences · Research · Data · EarthScience
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.gfz.de)
+- [Terms of service](https://www.gfz.de/terms-of-use)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/gfz-potsdam/](https://apis.io/providers/gfz-potsdam/).
